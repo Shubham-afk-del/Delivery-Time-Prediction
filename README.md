@@ -55,3 +55,15 @@ The version submitted for assessment is unchanged, in the zip archive in this re
 - `LR_Delivery_Time_Prediction_<Shubham Kumar Singh>.zip` - the submitted version and report
 
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
+
+## License
+
+My code and analysis here are under the [MIT license](LICENSE). The course dataset and the original case-study brief belong to upGrad and IIIT Bangalore and are not covered by it.
+
+---
+
+**Shubham Kumar Singh**, MSc Artificial Intelligence and Computer Science, Northeastern University London
+
+Originally completed as a case study in the upGrad and IIIT Bangalore Data Science Programme.
+
+[LinkedIn](https://www.linkedin.com/in/shubham-kumar-singh-00236a191) · [GitHub](https://github.com/Shubham-afk-del)
